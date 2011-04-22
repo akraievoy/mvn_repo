@@ -1,1 +1,6 @@
 No sources here: just, well, a maven repo.
+
+External URL for the releases repo should be:
+https://github.com/akraievoy/mvn_repo/raw/master/
+
+Hint: append "releases/" if the above does not make your maven happy.
