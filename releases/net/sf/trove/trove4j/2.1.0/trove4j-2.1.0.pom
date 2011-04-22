@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>net.sf.trove</groupId>
+	<artifactId>trove4j</artifactId>
+	<packaging>jar</packaging>
+	<name>trove4j</name>
+	<version>2.1.0</version>
+</project>
