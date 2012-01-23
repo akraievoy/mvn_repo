@@ -2,11 +2,12 @@
 <metadata>
   <groupId>org.akraievoy</groupId>
   <artifactId>couch</artifactId>
-  <version>1.3.2</version>
+  <version>1.3.3</version>
   <versioning>
     <versions>
-      <version>1.3.2</version>
+      <version>1.3.3</version>
+      <version>1.3.4</version>
     </versions>
-    <lastUpdated>20111105094539</lastUpdated>
+    <lastUpdated>20120123125751</lastUpdated>
   </versioning>
 </metadata>
