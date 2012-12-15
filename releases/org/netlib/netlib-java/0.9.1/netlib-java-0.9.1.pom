@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <!-- General information -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.netlib</groupId>
+  <artifactId>netlib-java</artifactId>
+  <packaging>jar</packaging>
+  <name>netlib-java</name>
+  <version>0.9.1</version>
+</project>
